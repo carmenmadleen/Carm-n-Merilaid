@@ -1,0 +1,7 @@
+{
+  "name": "Carmén's Voice Agent",
+  "description": "A professional voice agent for Carmén Merilaid, providing information about her career and skills in English and French.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
